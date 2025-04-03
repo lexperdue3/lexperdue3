@@ -4,13 +4,7 @@ Welcome to my Python Projects repository! 🚀 This repository contains a collec
 
 📂 Repository Structure
 
-Each project is stored in its own directory and includes:
-
-1. A Python script (.py file) implementing the project
-
-2. A README file with a brief description of the project and how to run it
-
-3. Sample input/output files or images, if applicable
+All projects are stored within this single repository and cosists of a Python script (.py file) implementing the functionality.
 
 📌 Future Plans
 
