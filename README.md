@@ -4,7 +4,10 @@ Welcome to my Python Projects repository! 🚀 This repository contains a collec
 
 📂 Repository Structure
 
-All projects are stored within this single repository and cosists of a Python script (.py file) implementing the functionality.
+All projects are stored within this single repository and consists of: 
+
+1. Python script (.py file) implementing the functionality.
+2. input/ouput images with solutions, if applicable.
 
 📌 Future Plans
 
